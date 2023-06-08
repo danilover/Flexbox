@@ -1,5 +1,10 @@
+/* Modificando el header */
 .headerPrincipal .container{
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+/* Modificando el menu  */
+.headerPrincipal-nav{
+    display: flex;
 }
